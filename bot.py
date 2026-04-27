@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Cal
 import json
 import os
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8514413454:AAGmATEKkTIspfitHkhqAXhLaIG52PUSeJU")
 ADMIN_ID = 8514413454  # твой Telegram ID
 USERNAME = "Senpai66666"  # без @
 
